@@ -1,4 +1,8 @@
-## Hi there 👋
+## E aí👋! Sou um desenvolvedor Front-End que está começando agora, mas já sou super fã de tecnologia e design. Estou sempre estudando e tentando fazer interfaces que sejam legais, fáceis de usar e que deem uma boa experiência para quem usa.
+
+No momento, estou me dedicando a aprender mais sobre HTML, CSS, JavaScript e React, e também estou dando uma olhada em UX/UI Design para criar aplicativos que sejam mais fáceis de entender e que funcionem bem em qualquer aparelho.
+
+Curto muito pegar ideias e transformá-las em código, e adoro desafios que me ajudem a crescer na minha carreira.
 
 <!--
 **jvcmelo/jvcmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
